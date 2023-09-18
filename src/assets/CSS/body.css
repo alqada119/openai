@@ -1,0 +1,26 @@
+
+.container{
+    display: block;
+    width:100vw;
+    height:80vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+   
+}
+.right{
+    width: 40%;
+    
+    height: 80%;
+    display: flex;
+    justify-content: center;
+    
+    flex-direction: column;
+}
+.left{
+    width: 50%;
+}
+.title{
+    font-size: 1.8em;
+    font-weight: bold;
+}

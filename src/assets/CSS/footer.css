@@ -1,0 +1,31 @@
+*{
+    font-family: footer;
+}
+.container1{
+    width: 100vw;
+    height:10vh;
+    display: flex;
+    justify-content: center;
+}
+.footer{
+    display: flex;
+    justify-content: space-between;
+    width: 90vw;
+    margin-bottom: 10px;
+    
+}
+div{
+    font-size: 1.1em;
+}
+button{
+    font-size: 1.1em;
+    padding: 10px;
+    width: 300px;
+}
+#copy{
+    margin-top: 40px;
+}
+@font-face {
+    font-family: footer;
+    src: url("../fonts/Garamond\ Premier\ Pro\ Display.otf");
+}
